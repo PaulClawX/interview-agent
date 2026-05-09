@@ -1,5 +1,7 @@
 # Interview Agent
 
+[![中文 README](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](README.zh-CN.md)
+
 ![Interview Agent Architecture](docs/interview-agent.png)
 
 Interview Agent is a skill-driven preparation workspace for artificial intelligence interviews. It helps candidates research roles and interviewers, improve resumes, generate self-introductions, build mock interview question sets, run mock interview loops, estimate pass probability, and estimate offer packages.

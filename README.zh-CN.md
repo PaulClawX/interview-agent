@@ -1,5 +1,7 @@
 # Interview Agent
 
+[![English README](https://img.shields.io/badge/README-English-blue)](README.md)
+
 ![Interview Agent Architecture](docs/interview-agent.png)
 
 Interview Agent 是一个以 skills 为核心的人工智能面试准备仓库。它可以帮助候选人做岗位和面试官调研、修改简历、生成自我介绍、生成 mock 面试题、设计 mock 面试流程、预测通过率，并估算 offer package。
