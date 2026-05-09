@@ -46,9 +46,9 @@ English is the default project language. Several skills include bilingual Englis
 ## Optional: Local CLI
 
 ```bash
-python -m venv .venv
+uv venv
 source .venv/bin/activate
-pip install -e .
+uv pip install -e .
 interview-agent list-skills
 interview-agent plan --company "Meta" --role "Senior Machine Learning Engineer" --level "E5"
 ```

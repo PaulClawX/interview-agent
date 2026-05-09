@@ -44,9 +44,9 @@ Interview Agent 是一个以 skills 为核心的人工智能面试准备仓库�
 ## 快速开始
 
 ```bash
-python -m venv .venv
+uv venv
 source .venv/bin/activate
-pip install -e .
+uv pip install -e .
 interview-agent list-skills
 interview-agent plan --company "Meta" --role "Senior Machine Learning Engineer" --level "E5"
 ```
